@@ -1,0 +1,277 @@
+#conteneur {
+    width: 100%;
+    height: 800px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#conteneur1 {
+    background-color: lightgray;
+    width: 100%;
+    height:600px;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    justify-content: space-between; 
+}
+
+#conteneur2 {
+    background-color: lightgray;
+    width: 100%;
+    height:600px;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+    flex-wrap: wrap;   
+}
+
+#conteneur3 {
+    width: 100%;
+    height:800px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+
+#conteneur4 {
+    width: 100%;
+    height:600px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+}
+
+#conteneur5 {
+    width: 100%;
+    height:600px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+}
+
+#conteneur6 {
+    background-color: lightgray;
+    width: 100%;
+    height:700px;
+    display: flex;
+    justify-content: space-between;
+}
+
+#conteneur7 {
+    width: 100%;
+    height:600px;
+    display: flex;
+    justify-content: center; 
+    align-items:baseline;
+}
+
+#conteneur8 {
+    width: 100%;
+    height: 600px;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+#conteneur9 {
+    width: 100%;
+    height:400px;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: center; 
+    align-items: center;
+}
+
+#conteneur10 {
+    width: 100%;
+    height: 200px;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: center;
+}   
+
+.tete {
+    background-image: url("/femme.jpg");
+    width: 100%;
+    height: 100%;
+}
+
+.debut {
+    font-size: 80px;
+    color: white;
+    margin-top: 290px;
+    padding-left: 50px;
+}
+
+.texte {
+    padding-top: 80px;
+    width: 1000px;
+    height: 900px;
+    text-align: center;
+    font-size: 50px;
+}
+
+.texte1 {
+    text-align: center;
+    padding-bottom: 64px;
+}
+
+.texte2 {
+    text-align: center;
+    padding-bottom: 64px;
+}
+
+.image {
+    width: 600px;
+    height: 400px;
+    margin-bottom: 50px;
+    margin-top: 50px;
+}
+
+#enfant {
+    background-image: url("/casquette.jpg");
+}
+
+#enfant1 {
+    background-image: url("/chien.jpg");
+}
+
+#enfant2 {
+    background-image: url("/montagne.jpg");
+}
+
+#enfant3 {
+    background-image: url("/herbe.jpg");
+}
+
+#enfant4 {
+    background-image: url("/vague.jpg");
+}
+
+#enfant5 {
+    background-image: url("/forêt.jpg");
+}
+
+.milieu {
+    width: 700px;
+    height: 370px;
+    margin-bottom: 50px;
+    margin-top: 50px;
+    background-repeat:no-repeat;
+}
+
+.texte3 {
+    text-align: center;
+    font-size: 50px;
+}
+
+#moitie {
+    background-image: url("/écran.png");
+}
+
+.outils {
+    background-color: silver;
+    width: 200px;
+    height: 200px;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 100px;
+}
+
+.outils1 {
+    background-color: silver;
+    width: 200px;
+    height: 200px;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 100px;
+}
+
+.outils2 {
+    background-color: silver;
+    width: 200px;
+    height: 200px;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 100px;
+}
+
+.outils3 {
+    background-color: silver;
+    width: 200px;
+    height: 200px;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 100px;
+}
+
+.outils4 {
+    background-color: silver;
+    width: 200px;
+    height: 200px;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 100px;
+}
+
+.outils5 {
+    background-color: silver;
+    width: 200px;
+    height: 200px;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 100px;
+}
+
+.texte4 {
+    text-align: center;
+    font-size: 30px;
+}
+
+.feature {
+    font-size: 60px;
+    text-align: center;
+    width: 200px;
+    height: 100px;
+}
+
+form {
+   font-size: 20px;
+}
+
+#utilisateur1 {
+    background-image: url("/Image20220208142757.png");
+}
+
+.usered{
+    width: 49%;
+    height: 80%;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    font-size: 50px;
+}
+
+.user {
+    width: 49%;
+    height: 101%;
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+
+.menu {
+    width: 100px;
+    height: 100px;
+    margin-bottom: 50px;
+    margin-top: 50px;
+}
+
+.texte8 {
+    font-size: 30px;
+}
